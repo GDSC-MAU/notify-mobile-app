@@ -7,13 +7,13 @@ A cross platform free mobile application where users can report any suspicious a
 
 ### Build with love with flutter
 
-### To run this project
+ To run this project
 
-### flutter pub upgrade
+flutter pub upgrade
 
-### flutter pub get
+flutter pub get
 
-### flutter run --no-sound-null-safety
+flutter run --no-sound-null-safety
 
 
 
